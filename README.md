@@ -6,7 +6,7 @@
 
 ## What Is It
 
-Astras Wall Walk Always (no Reset) is a fun mod for gorila tag that can be used as a walk assist and this no reset version works with htc viv wands
+Astras Wall Walk Always (no Reset) is a fun mod for gorila tag that can be used as a walk assist and this no reset version works with htc vive wands
 
 # How To use
 
