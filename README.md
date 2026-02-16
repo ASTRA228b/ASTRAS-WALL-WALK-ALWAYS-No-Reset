@@ -10,7 +10,7 @@ Astras Wall Walk Always (no Reset) is a fun mod for gorila tag that can be used 
 
 # How To use
 
-Hold Both Grips 
+Hold Both Grips (at the same time)
 
 press A to set speed
 
